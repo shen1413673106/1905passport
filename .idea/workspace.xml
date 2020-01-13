@@ -15,19 +15,22 @@
       <file leaf-file-name="welcome.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+            <state relative-caret-position="322">
+              <caret line="83" column="54" lean-forward="false" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
               <folding>
-                <marker date="1578883168481" expanded="true" signature="30:73" ph="..." />
-                <marker date="1578883168481" expanded="true" signature="1836:1850" ph="..." />
-                <marker date="1578883168481" expanded="true" signature="1924:1940" ph="..." />
-                <marker date="1578883168481" expanded="true" signature="2047:2066" ph="..." />
+                <marker date="1578887126952" expanded="true" signature="30:73" ph="..." />
+                <marker date="1578887126952" expanded="true" signature="1836:1850" ph="..." />
+                <marker date="1578887126952" expanded="true" signature="1924:1940" ph="..." />
+                <marker date="1578887126952" expanded="true" signature="2047:2066" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -52,6 +55,7 @@
     <option name="width" value="1006" />
     <option name="height" value="1031" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -205,12 +209,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1578882480820</updated>
-      <workItem from="1578882482611" duration="671000" />
+      <workItem from="1578882482611" duration="1396000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="671000" />
+    <option name="totallyTimeSpent" value="1396000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="569" y="6" width="1006" height="1031" extended-state="1" />
@@ -259,13 +263,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+        <state relative-caret-position="322">
+          <caret line="83" column="54" lean-forward="false" selection-start-line="83" selection-start-column="54" selection-end-line="83" selection-end-column="54" />
           <folding>
-            <marker date="1578883168481" expanded="true" signature="30:73" ph="..." />
-            <marker date="1578883168481" expanded="true" signature="1836:1850" ph="..." />
-            <marker date="1578883168481" expanded="true" signature="1924:1940" ph="..." />
-            <marker date="1578883168481" expanded="true" signature="2047:2066" ph="..." />
+            <marker date="1578887126952" expanded="true" signature="30:73" ph="..." />
+            <marker date="1578887126952" expanded="true" signature="1836:1850" ph="..." />
+            <marker date="1578887126952" expanded="true" signature="1924:1940" ph="..." />
+            <marker date="1578887126952" expanded="true" signature="2047:2066" ph="..." />
           </folding>
         </state>
       </provider>
