@@ -187,7 +187,7 @@ class TestController extends Controller
         return $response;
     }
 
-    //签名验证
+    //签名
     public function md5test(){
         echo "<pre>";print_r($_GET);echo "</pre>";
         $data=$_GET['data'];
